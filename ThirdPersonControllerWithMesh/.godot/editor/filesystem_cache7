@@ -1,0 +1,15 @@
+102b54792f6b2ef812636a2bdaeb9d34
+::res://::1644000395
+default_env.tres::Environment::-1::1643519924::0::1::::<><>::
+icon.png::StreamTexture2D::8785541719004687787::1634925601::1643539691::1::::<><>::
+::res://Character/::1643475750
+::res://Character/Player/::1643998666
+asdf1_Beta_HighLimbsGeoSG2.material::StandardMaterial3D::-1::1643526833::0::1::::<><>::
+Beta_Joints_MAT.material::StandardMaterial3D::-1::1643526833::0::1::::<><>::
+RobotPlayer.gltf::PackedScene::6911110389778626214::1643475781::1643531247::1::::<><>::
+RobotPlayer.tscn::PackedScene::8467339526292551925::1643993677::0::1::::<><>::res://Character/Player/ThirdPersonController.gd
+ThirdPersonController.gd::GDScript::-1::1643998518::0::1::::<>CharacterBody3D<>::
+::res://Map/::1644000420
+Floor.tscn::PackedScene::7458403239887349899::1643993676::0::1::::<><>::uid://dsvv3yyd75rof
+RobotPlayer.gltf::PackedScene::2430594401641146611::1644000415::1644000422::1::::<><>::
+RobotPlayer.gltf::PackedScene::2430594401641146611::1644000415::1644000422::1::::<><>::
